@@ -63,18 +63,6 @@ This project involves building a *binary classification model* using *Logistic R
 
 ---
 
-## 🤔 Interview Questions You Should Know
-
-1. How does logistic regression differ from linear regression?
-2. What is the sigmoid function?
-3. What is precision vs recall?
-4. What is the ROC-AUC curve?
-5. What is the confusion matrix?
-6. How do you handle imbalanced data?
-7. How do you choose the threshold?
-8. Can logistic regression be used for multi-class problems?
-
----
 
 ## 📎 Files Included
 
@@ -83,7 +71,3 @@ This project involves building a *binary classification model* using *Logistic R
 - README.md - Project overview
 
 ---
-
-## ✅ Submission
-
-Upload all files to your GitHub repository and submit the repository link using the provided internship form.
